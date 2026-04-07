@@ -10,9 +10,10 @@ This project analyzes HR data to identify employee attrition patterns and factor
 
 ## 🧹 Data Preparation
 -Remove duplicate records and handled missing values
--Standardized columns such as Job Role, Salary Slab, and Education
--Created calculated fields like Attrition rate and Average Salary
+-Standardized columns (Job Role, Salary Slab, Education)
+-Created calculated fields (Attrition Rate and Average Salary)
 -Grouped data into cateegories (Age groups, Salary slab, Experience levels)
+Verified data consisteency for accurate analysis
 
 ## 📈 Key Insights
 
@@ -32,15 +33,23 @@ This project analyzes HR data to identify employee attrition patterns and factor
 
 ### 4. Job Role Analysis
 - Laboratory Technicians and Sales Executives show highest attrition  
-👉 Certain roles have higher workload or dissatisfaction
+👉 High attrition in Sales and Lab roles indicates potential workload imbalance or role-specific dissatisfaction.
 
 ### 5. Experience / Tenure
-- Employees with fewer years at company show higher attrition  
+- Higher attrition among early-tenure employees suggests weak onboarding or lack of early engagement strategies.
 👉 Early-stage employees are less retained
 
 ### 6. Gender Distribution
 - Higher attrition observed among male employees  
 👉 Possible imbalance in workforce retention
+
+### 7. Key Metrics
+-Total Employees: 1470
+-Attrition Count: 237
+-Attrition Rate: 16.1%
+-Average Salary: 6.5k
+-Average Age: 37
+-Average Experience: 7 years
 
 ## 💡 Business Recommendations
 
@@ -49,4 +58,9 @@ This project analyzes HR data to identify employee attrition patterns and factor
 - Improve work conditions for high-attrition roles like Sales and Lab Technicians  
 - Strengthen onboarding and engagement programs for new employees  
 - Conduct exit analysis to identify root causes of attrition
-- 
+
+## Dashboard Preview
+
+
+## 📌Conclusion
+This analysis highlights key factors driving employee attrition and provides actionable insights to improve workforce  retention and organizational performance.
