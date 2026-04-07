@@ -60,6 +60,7 @@ Verified data consisteency for accurate analysis
 - Conduct exit analysis to identify root causes of attrition
 
 ## Dashboard Preview
+![HR Dashboard](HR- Analytics- Dashboard.png)
 
 
 ## 📌Conclusion
