@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# Employee Attrition Analysis Dashboard
 
 ## 📌 Objective 
 This project analyzes HR data to identify employee attrition patterns and factors affecting workforce retention.
