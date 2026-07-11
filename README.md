@@ -59,9 +59,5 @@ Verified data consisteency for accurate analysis
 - Strengthen onboarding and engagement programs for new employees  
 - Conduct exit analysis to identify root causes of attrition
 
-## Dashboard Preview
-![HR Dashboard](HR-Analytics-Dashboard.png)
-
-
 ## 📌Conclusion
 This analysis highlights key factors driving employee attrition and provides actionable insights to improve workforce  retention and organizational performance.
